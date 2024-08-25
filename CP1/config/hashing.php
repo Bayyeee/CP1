@@ -15,7 +15,8 @@ return [
     |
     */
 
-    'driver' => env('HASH_DRIVER', 'argon2id'),
+    // 'driver' => env('HASH_DRIVER', 'argon2id'),
+    'driver' => env('HASH_DRIVER', 'bcrypt'),
 
     /*
     |--------------------------------------------------------------------------
