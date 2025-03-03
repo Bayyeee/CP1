@@ -1,20 +1,56 @@
-# Table of Contents
-- [Intro](#intro)
+<div align="center">
+  <h1><b>CP1 - Image Gallery Project</b></h1>
+</div>
+
+<a href="https://github.com/Bayyeee/CP1">
+  <img src="Team/resized/image.png" align="center" style="border-radius: 20px">
+</a>
+
+<div align="center">
+  <h6><i>Image Gallery Project for Informatics Major, Universitas Muhammadiyah Banjarmasin</i></h6>
+  <hr>
+</div>
+
+## 📌 Table of Contents
+- [Introduction](#introduction)
 - [Architecture](#architecture)
 - [Database](#database)
 - [API Documentation](#api-documentation)
 - [Contributors](#contributors)
 
-## Intro
-This is a repository for "CP1", an image gallery project for the Informatics Major at Universitas Muhammadiyah Banjarmasin. It utilizes a MySQL Database to store all media and information, a PHP-based web-app made with the Laravel framework to create a RESTful API for the backend, and a ReactJS frontend for intuitive user interaction.
+## 📖 Introduction
+**CP1** is an image gallery project developed for the Informatics Major at **Universitas Muhammadiyah Banjarmasin**. 
+This project consists of:
+- **Backend:** A RESTful API built with Laravel (PHP)
+- **Frontend:** A ReactJS-based web application for intuitive user interaction
+- **Database:** MySQL for storing media files and related information
 
-## Contributors
-|                 <a href="#" target="_blank">**Thariq**</a>                 |                 <a href="#" target="_blank">**Zulfan**</a>                 |                 <a href="#" target="_blank">**Isan**</a>                 |
-| :---------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: |
-| <img src="https://github.com/Bayyeee/CP1/blob/master/Team/no_foto.png" alt="Thariq" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;"> | <img src="https://github.com/Bayyeee/CP1/blob/master/Team/resized/zulfan%20resized.jpg" alt="Zulfan" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;"> | <img src="https://github.com/Bayyeee/CP1/blob/master/Team/resized/isan%20resized.jpg" alt="Isan" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;"> |
-|        [![GitHub](https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Freinz)      |        [![GitHub](https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)         |         [![GitHub](https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)      |
-
-|                 <a href="#" target="_blank">**Noval**</a>                 |                 <a href="#" target="_blank">**Ubai**</a>                 |                 <a href="#" target="_blank">**Towi**</a>                 |
-| :---------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: |
-| <img src="https://github.com/Bayyeee/CP1/blob/master/Team/resized/noval%20resized.jpg" alt="Noval" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;"> | <img src="https://github.com/Bayyeee/CP1/blob/master/Team/resized/ubai%20resized.png" alt="Ubai" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;"> | <img src="https://github.com/Bayyeee/CP1/blob/master/Team/resized/towi%20resized.jpg" alt="Towi" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;"> |
-|        [![GitHub](https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Noval0857)         |        [![GitHub](https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bayyeee)         |        [![GitHub](https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/caynine9)         |
+## 👥 Contributors
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <a href="https://github.com/">
+        <img src="https://github.com/Bayyeee/CP1/blob/master/Team/resized/zulfan%20resized.jpg" alt="Zulfan" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover;">
+        <p>Zulfan</p>
+      </a>
+    </td>
+    <td align="center" width="150">
+      <a href="https://github.com/Noval0857">
+        <img src="https://github.com/Bayyeee/CP1/blob/master/Team/resized/noval%20resized.jpg" alt="Noval" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover;">
+        <p>Noval</p>
+      </a>
+    </td>
+    <td align="center" width="150">
+      <a href="https://github.com/Bayyeee">
+        <img src="https://github.com/Bayyeee/CP1/blob/master/Team/resized/ubai%20resized.png" alt="Ubai" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover;">
+        <p>Ubai</p>
+      </a>
+    </td>
+    <td align="center" width="150">
+      <a href="https://github.com/caynine9">
+        <img src="https://github.com/Bayyeee/CP1/blob/master/Team/resized/towi%20resized.jpg" alt="Towi" style="border-radius: 50%; width: 100px; height: 100px; object-fit: cover;">
+        <p>Towi</p>
+      </a>
+    </td>
+  </tr>
+</table>
