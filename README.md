@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><b>CP1 - Image Gallery Project</b></h1>
+  <h1><b>NexDes - Next Desa</b></h1>
 </div>
 
 <a href="https://github.com/Bayyeee/CP1">
@@ -7,7 +7,7 @@
 </a>
 
 <div align="center">
-  <h6><i>Image Gallery Project for Informatics Major, Universitas Muhammadiyah Banjarmasin</i></h6>
+  <h6><i>Digitization of Village Administration and Services</i></h6>
   <hr>
 </div>
 
@@ -19,7 +19,7 @@
 - [Contributors](#contributors)
 
 ## 📖 Introduction
-**CP1** is an image gallery project developed for the Informatics Major at **Universitas Muhammadiyah Banjarmasin**. 
+**NexDes** is a digital platform designed to support village administration and services through technology. Developed by Informatics students at Universitas Muhammadiyah Banjarmasin, this project aims to simplify village data management, civil services, and various administrative needs.
 This project consists of:
 - **Backend:** A RESTful API built with Laravel (PHP)
 - **Frontend:** A ReactJS-based web application for intuitive user interaction
