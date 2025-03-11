@@ -3,7 +3,7 @@
 </div>
 
 <a href="https://github.com/Bayyeee/CP1">
-  <img src="Team/resized/image.png" align="center" style="border-radius: 20px">
+  <img src="Team/resized/NexDes.png" align="center" style="border-radius: 20px">
 </a>
 
 <div align="center">
