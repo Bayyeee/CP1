@@ -1,12 +1,12 @@
 <div align="center">
   <h1><b>NexDes - Next Desa</b></h1>
-</div>
+
 
 <a href="https://github.com/Bayyeee/CP1">
-  <img src="Team/resized/NexDes.png" align="center" style="border-radius: 20px">
+  <img src="Team/resized/NexDes.png" align="center" style="border-radius: 20px" width=400>
 </a>
 
-<div align="center">
+
   <h6><i>Digitization of Village Administration and Services</i></h6>
   <hr>
 </div>
