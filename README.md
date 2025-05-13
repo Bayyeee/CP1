@@ -21,9 +21,9 @@
 ## 📖 Introduction
 **NexDes** is a digital platform designed to support village administration and services through technology. Developed by Informatics students at Universitas Muhammadiyah Banjarmasin, this project aims to simplify village data management, civil services, and various administrative needs.
 This project consists of:
-- **Backend:** A RESTful API built with Laravel (PHP)
-- **Frontend:** A ReactJS-based web application for intuitive user interaction
-- **Database:** MySQL for storing media files and related information
+- **Backend:** RESTful API built with Laravel (PHP)
+- **Frontend:** VueJS based user interface for intuitive user interaction
+- **Database:** MySQL for storing related information and media files. 
 
 ## 👥 Contributors
 <table align="center">
